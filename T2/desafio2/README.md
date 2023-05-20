@@ -1,0 +1,1 @@
+Se definieron dos funciones, todo está bastante comentado. Para probar el código se puede modificar 'tests_2/T0.txt' con el contenido que se desee.

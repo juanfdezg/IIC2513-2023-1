@@ -1,0 +1,32 @@
+const data = [
+    { codigo: "ABC12", destino: "SANTIAGO", restriccion: 13 },
+    { codigo: "XYZ23", destino: "ARUBA", restriccion: 57 },
+    { codigo: "DEF45", destino: "MADRID", restriccion: 9 },
+    { codigo: "GHI67", destino: "PARIS", restriccion: 21 },
+    { codigo: "JKL89", destino: "TOKYO", restriccion: 6 },
+    { codigo: "MNO10", destino: "NEW YORK", restriccion: 12 },
+    { codigo: "PQR32", destino: "LONDON", restriccion: 33 },
+    { codigo: "STU54", destino: "BERLIN", restriccion: 14 },
+    { codigo: "VWX76", destino: "ROME", restriccion: 22 },
+    { codigo: "YZA98", destino: "SYDNEY", restriccion: 68 },
+    { codigo: "BCD21", destino: "HONG KONG", restriccion: 17 },
+    { codigo: "EFG43", destino: "TORONTO", restriccion: 25 },
+    { codigo: "HIJ65", destino: "DUBAI", restriccion: 31 },
+    { codigo: "KLM87", destino: "SINGAPORE", restriccion: 4 },
+    { codigo: "NOP09", destino: "ISTANBUL", restriccion: 19 },
+    { codigo: "QRS31", destino: "BANGKOK", restriccion: 11 },
+    { codigo: "TUV53", destino: "AMSTERDAM", restriccion: 27 },
+    { codigo: "WXY75", destino: "BEIJING", restriccion: 16 },
+    { codigo: "ZAB97", destino: "MOSCOW", restriccion: 86 },
+    { codigo: "CDE18", destino: "KUALA LUMPUR", restriccion: 5 },
+    { codigo: "FGH40", destino: "SHANGHAI", restriccion: 23 },
+    { codigo: "IJK62", destino: "MEXICO CITY", restriccion: 51 },
+    { codigo: "LMN84", destino: "SAO PAULO", restriccion: 29 },
+    { codigo: "OPQ06", destino: "ISTANBUL", restriccion: 15 },
+    { codigo: "RST28", destino: "BEIRUT", restriccion: 7 },
+    { codigo: "UVW50", destino: "JAKARTA", restriccion: 20 },
+    { codigo: "XYZ72", destino: "COPENHAGEN", restriccion: 13 },
+    { codigo: "ABC94", destino: "OSLO", restriccion: 39 }
+  ];
+  
+  module.exports = data;
